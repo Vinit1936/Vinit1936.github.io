@@ -307,6 +307,7 @@ a{
 
 .artist{
     margin-top: 0.2rem;
+    display: flex;
 }
 
 .artist-hover:hover{

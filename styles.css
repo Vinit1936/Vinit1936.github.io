@@ -309,7 +309,7 @@ a{
     margin-top: 0.2rem;
 }
 
-.artist:hover{
+.artist-hover:hover{
     text-decoration: underline;
     cursor: pointer;
     opacity: 100%;

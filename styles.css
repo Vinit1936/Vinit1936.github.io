@@ -23,7 +23,8 @@ body{
     overflow: auto;
     border-radius: 1rem;
     background-color: #121212;
-    padding: 0 1.5rem 0 1.5rem;
+    padding: 0 1.5rem 0 1.5rem; 
+    margin-top: 0.5rem;
 }
 
 .music-player{
@@ -233,6 +234,7 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 0.5rem;
 }
 
 .badge:hover{
@@ -306,8 +308,11 @@ a{
 }
 
 .artist{
-    margin-top: 0.2rem;
     display: flex;
+}
+
+.artist-hover{
+    margin-top: 0.2rem;
 }
 
 .artist-hover:hover{
@@ -334,3 +339,4 @@ a{
 .volume{
     margin-right: 1rem;
 }
+
